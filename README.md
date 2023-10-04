@@ -1,9 +1,9 @@
 # colocator
 
-[direction demo](/direction)
+[direction demo](/colocator/direction)
 
-[marker demo](/marker)
+[marker demo](/colocator/marker)
 
-[search demo](/search)
+[search demo](/colocator/search)
 
-[neiborhood demo](/neiborhood)
+[neiborhood demo](/colocator/neiborhood)
