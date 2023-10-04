@@ -6,4 +6,4 @@
 
 [search demo](/colocator/search)
 
-[neiborhood demo](/colocator/neiborhood)
+[neighborhood demo](/colocator/neighborhood)
