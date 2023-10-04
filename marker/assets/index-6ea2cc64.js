@@ -2,4 +2,4 @@
  * @license
  * Copyright 2019 Google LLC. All Rights Reserved.
  * SPDX-License-Identifier: Apache-2.0
- */async function c(){const{Map:i}=await google.maps.importLibrary("maps"),{AdvancedMarkerElement:r}=await google.maps.importLibrary("marker"),o=new i(document.getElementById("map"),{center:{lat:37.4239163,lng:-122.0947209},zoom:14,mapId:"4504f8b37365c3d0"});new r({map:o,position:{lat:37.4239163,lng:-122.0947209}})}c();
+ */async function c(){const{Map:i}=await google.maps.importLibrary("maps"),{AdvancedMarkerElement:r}=await google.maps.importLibrary("marker"),o=new i(document.getElementById("map"),{center:{lat:37.4239163,lng:-122.0947209},zoom:15,mapId:"4504f8b37365c3d0"});new r({map:o,position:{lat:37.4239163,lng:-122.0947209}})}c();
